@@ -1,0 +1,49 @@
+{
+  "servicos": [
+    {
+      "id": 1,
+      "nome": "Blend de Proteinas",
+      "descricao": "Trata-se de um Mix de óleos vegetais com uma carga de proteína. Indicado para cabelos extremamente ressecados e sem brilho.",
+      "preco": "R$74,90",
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Terapia Capilar",
+      "descricao": "Trata-se de um relaxamento natural sem química a base de óleos especiais e manteigas (cupuaçu, karitê e cacau).Indicado para cabelos danificados e enfraquecidos. Auxilia no crescimento e definição dos cachos.",
+      "preco": "R$89,90",
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nome": "Hialurônico Power",
+      "descricao": "Trata-se de um produto sem química, onde seu ativo age de forma preenchedora atuando diretamente na fibra capilar. Indicado para: cabelos poroso e fragilizado.",
+      "preco": "R$134.90",
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "nome": "Morena Iluminada",
+      "descricao": "Trata-se de um efeito que clareia discretamente os fios dos cabelos castanhos ou pretos, isso sem mudar a cor base dessas madeixas.",
+      "preco": "R$249.90",
+      "categoria_id": 2
+    },
+    {
+      "id": 5,
+      "nome": "Corte Big Chop",
+      "descricao": "Trata-se de um corte da parte lisa de um cabelo que está no processo de transição capilar. É a forma mais famosa de assumir os cachos e fugir de outras alternativas, como a texturização.",
+      "preco": "R$59.90",
+      "categoria_id": 2
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Tratamentos"
+    },
+    {
+      "id": 2,
+      "nome": "Transformação"
+    }
+  ]
+}
